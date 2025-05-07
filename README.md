@@ -1,4 +1,4 @@
-Java - Applying Object-Oriented Programming:
+** Java - Applying Object-Oriented Programming: **
 
 
 Introduction to Object-Oriented Programming: 
